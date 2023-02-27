@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HrisHubDDD.Infrastructure", "HrisHubDDD.Infrastructure\HrisHubDDD.Infrastructure.csproj", "{EA4A14B9-3102-4173-9EF2-891EF2F4680D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HrisHubDDD.Domain", "HrisHubDDD.Domain\HrisHubDDD.Domain.csproj", "{DAD20CAC-988D-4567-8FE7-971A1001ABB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HrisHubDDD.Contracts", "HrisHubDDD.Contracts\HrisHubDDD.Contracts.csproj", "{9C0097A8-2F5B-4958-8F55-09D066817EFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HrisHubDDD.Application", "HrisHubDDD.Application\HrisHubDDD.Application.csproj", "{71F4AB23-B184-4240-B1E4-B155F1C46407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HrisHubDDD.Api", "HrisHubDDD.Api\HrisHubDDD.Api.csproj", "{B9122110-F8CA-47DD-A956-41C38B73B710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4A14B9-3102-4173-9EF2-891EF2F4680D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4A14B9-3102-4173-9EF2-891EF2F4680D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4A14B9-3102-4173-9EF2-891EF2F4680D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4A14B9-3102-4173-9EF2-891EF2F4680D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD20CAC-988D-4567-8FE7-971A1001ABB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD20CAC-988D-4567-8FE7-971A1001ABB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD20CAC-988D-4567-8FE7-971A1001ABB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD20CAC-988D-4567-8FE7-971A1001ABB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C0097A8-2F5B-4958-8F55-09D066817EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0097A8-2F5B-4958-8F55-09D066817EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0097A8-2F5B-4958-8F55-09D066817EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0097A8-2F5B-4958-8F55-09D066817EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F4AB23-B184-4240-B1E4-B155F1C46407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F4AB23-B184-4240-B1E4-B155F1C46407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F4AB23-B184-4240-B1E4-B155F1C46407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F4AB23-B184-4240-B1E4-B155F1C46407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9122110-F8CA-47DD-A956-41C38B73B710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9122110-F8CA-47DD-A956-41C38B73B710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9122110-F8CA-47DD-A956-41C38B73B710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9122110-F8CA-47DD-A956-41C38B73B710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
